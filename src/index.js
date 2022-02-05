@@ -12,6 +12,7 @@ import { composeWithDevTools } from '@redux-devtools/extension';
 import thunk from 'redux-thunk';
 import rootReducer from './reducers';
 import { getPosts } from './actions/postAction';
+import { getUser } from './actions//userAction';
 
 const store = createStore(
   rootReducer,
@@ -19,6 +20,7 @@ const store = createStore(
 );
 
 store.dispatch(getPosts());
+store.dispatch(getUser());
 
 ReactDOM.render(
   <React.StrictMode>
