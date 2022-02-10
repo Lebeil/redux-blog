@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import { useSelector, useDispatch } from "react-redux";
-import { addPosts, getPosts } from "../actions/postAction";
+import { addPost, getPosts } from "../actions/postAction";
 
 const PostForm = () => {
   const [title, setTitle] = useState("");
@@ -19,7 +19,7 @@ const PostForm = () => {
         likes: 0,
       };
 
-      await dispatch(addPosts(data));
+      await dispatch(addPost(data));
       setTitle("");
       setContent("");
       //pour obtenir l'ID

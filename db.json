@@ -4,36 +4,22 @@
       "title": "Lorem ipsum dolor sit amet",
       "author": "Patrice",
       "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati voluptates non, odit, sequi sit pariatur iusto modi magni dolorem, cupiditate corrupti! Recusandae quaerat vitae fugiat mollitia blanditiis, temporibus eum! Ipsum? Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati voluptates non, odit, sequi sit pariatur iusto modi magni dolorem, cupiditate corrupti! Recusandae quaerat vitae fugiat mollitia blanditiis, temporibus eum! Ipsum?",
-      "likes": 27,
+      "likes": 28,
       "id": "1"
     },
     {
       "title": "Lorem ipsum dolor sit amet dolor sit amet",
       "author": "Samia",
       "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati voluptates non, odit, sequi sit pariatur iusto modi magni dolorem, cupiditate corrupti! Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati voluptates non, odit, sequi sit pariatur iusto modi magni dolorem, cupiditate corrupti! Recusandae quaerat vitae fugiat mollitia blanditiis, temporibus eum! Ipsum? Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati voluptates non, odit, sequi sit pariatur iusto modi magni dolorem, cupiditate corrupti! Recusandae quaerat vitae fugiat mollitia blanditiis, temporibus eum! Ipsum?",
-      "likes": 16,
+      "likes": 19,
       "id": "2"
     },
     {
       "title": "Lorem ipsum dolor",
       "author": "Denis",
       "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati voluptates non, odit, sequi sit pariatur iusto modi magni dolorem, cupiditate corrupti!Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati voluptates non, odit, sequi sit pariatur iusto modi magni dolorem, cupiditate corrupti! Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati voluptates non, odit, sequi sit pariatur iusto modi magni dolorem, cupiditate corrupti! Recusandae quaerat vitae fugiat mollitia blanditiis, temporibus eum! Ipsum?",
-      "likes": 107,
+      "likes": 110,
       "id": "3"
-    },
-    {
-      "title": "test",
-      "content": "test réussi?",
-      "author": "user42",
-      "likes": 0,
-      "id": "QjtLDfL"
-    },
-    {
-      "title": "allo",
-      "content": "oui?",
-      "author": "user42",
-      "likes": 0,
-      "id": "DtxYRWv"
     }
   ],
   "users": [
