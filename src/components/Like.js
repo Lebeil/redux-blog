@@ -1,6 +1,7 @@
 import React from "react";
 import { useDispatch, useSelector } from "react-redux";
 import { addLike } from "../actions/postAction";
+import { addUserLike } from "../actions/userAction";
 
 const Like = ({ post }) => {
   const user = useSelector((state)=> state.userReducer);
@@ -20,6 +21,7 @@ const Like = ({ post }) => {
       id: user[0].id,
     }
     dispatch(addLike(postData));
+    dispatch(addUserLike(userData));
   }
 
   return (
